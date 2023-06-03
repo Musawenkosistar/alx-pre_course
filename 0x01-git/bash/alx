@@ -1,5 +1,5 @@
 #!/bin/bash
-<<<<<< Master
+<<<<<< master
 echo "ALX School is so cool!"
 echo "ALX School"
->>>>>> origin/update_script
+>>>>>> update_script
